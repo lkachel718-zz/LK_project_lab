@@ -2,3 +2,4 @@ This is a new line
 Learning git is fun.
 I hope to be more valuable to the team after learning more.
 This desk is too high.
+this is supposed to be text file 2 but I lost that
